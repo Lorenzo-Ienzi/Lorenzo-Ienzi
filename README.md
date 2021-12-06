@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lorenzo-Ienzi
+- 👋 Hi, I’m Lorenzo Ienzi, a 23 years old guy from Novara, Italy
 - I’m a junior front-end web developer
 - I love videogames, nature and football ⚽
 - React in my daily and I can't wait to learn new stuff! ( like back-end 😝 )
